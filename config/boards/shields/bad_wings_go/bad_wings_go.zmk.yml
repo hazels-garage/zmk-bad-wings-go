@@ -1,0 +1,8 @@
+file_format: "1"
+id: bad_wings_go
+name: "Bad Wings: go"
+type: shield
+url: https://github.com/hazels-garage/bad-wings/blob/master/go
+requires: [seeed_xiao]
+features:
+  - keys
