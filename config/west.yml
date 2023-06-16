@@ -1,11 +1,11 @@
 manifest:
   remotes:
-    - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
+    - name: purdeaandrei
+      url-base: https://github.com/purdeaandrei
   projects:
     - name: zmk
-      remote: zmkfirmware
-      revision: main
+      remote: purdeaandrei
+      revision: f_implement_dehost_driver
       import: app/west.yml
   self:
     path: config
